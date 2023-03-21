@@ -9,3 +9,5 @@
 DROP DATABASE IF EXISTS videogame_chat_db;
 -- Create the tech_blog_db database
 CREATE DATABASE videogame_chat_db;
+
+SELECT * FROM users;
